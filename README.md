@@ -67,6 +67,7 @@
 
 | Certificate | Issuer |
 |------------|--------|
+| 🤖 Fundamentals of AI *(AI Concepts, AI Ethics, Introducing AI)* | IBM Skills Network / Cognitive Class |
 | 🏆 Google Generative AI Fundamentals | Google Cloud |
 | 🐍 Python (Basic & Intermediate) | HackerRank |
 | 🗄️ SQL and Relational Databases 101 | IBM |
