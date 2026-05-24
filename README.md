@@ -1,7 +1,12 @@
 <h1 align="center">Hi there, I'm Joshitha Bapanapalli 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Data+Science+%26+AI-ML+Student+%40+Vignan's;LLM+%7C+NLP+%7C+Python+%7C+Flask+Developer;Building+Real-World+AI+Applications;Open+to+Internships+%26+Collaborations+🚀" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Data%20Science%20%26%20AI--ML%20Student-6A5ACD?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM%20%7C%20NLP%20%7C%20Flask-0A66C2?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Internships-10B981?style=for-the-badge&logo=handshake&logoColor=white"/>
+</p>
+
+---
 </p>
 
 ---
